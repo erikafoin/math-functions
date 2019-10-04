@@ -1,1 +1,1 @@
-import './math-functions.test.js';
+import './some-file.test/js';
